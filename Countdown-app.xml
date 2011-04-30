@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<application xmlns="http://ns.adobe.com/air/application/2.5"> 
+    <id>net.zhuowei.Countdown</id> 
+    <versionNumber>1.0.0</versionNumber> 
+    <filename>Countdown</filename> 
+    <name>Countdown</name>
+    <initialWindow> 
+        <content>Countdown.swf</content> 
+        <visible>true</visible> 
+        <width>1024</width> 
+        <height>600</height>
+	<autoOrients>true</autoOrients>
+	<aspectRatio>landscape</aspectRatio>
+    </initialWindow> 
+</application>

@@ -1,0 +1,11 @@
+.countdownselect{
+	background-color: rgba(255,255,255,0.6);
+	font-size: 24px;
+        padding: 0.5em 2%;
+}
+.countdowntime{
+	background-color: rgba(255,255,255,0.8);
+}
+.countdowntotime{
+	font-size:14px;
+}
